@@ -925,3 +925,14 @@
 2025-08-06 18:18:22 INFO  [CalendarApplication] - The following 1 profile is active: "local"
 2025-08-06 18:18:28 INFO  [CalendarApplication] - Started CalendarApplication in 6.44 seconds (process running for 7.33)
 2025-08-06 18:18:34 INFO  [HomeController] - INFO: home()
+2025-08-07 13:50:37 INFO  [CalendarApplication] - Starting CalendarApplication using Java 21.0.7 with PID 8888 (C:\hcy\spring_boot\pjt_intellij\sol\calendar\calendar\build\classes\java\main started by Class02 in C:\hcy\spring_boot\pjt_intellij\sol\calendar\calendar)
+2025-08-07 13:50:37 INFO  [CalendarApplication] - The following 1 profile is active: "local"
+2025-08-07 13:50:44 INFO  [CalendarApplication] - Started CalendarApplication in 8.046 seconds (process running for 9.2)
+2025-08-07 13:50:49 INFO  [HomeController] - INFO: home()
+2025-08-07 13:53:27 INFO  [CalendarApplication] - Starting CalendarApplication using Java 21.0.7 with PID 292 (C:\hcy\spring_boot\pjt_intellij\sol\calendar\calendar\build\classes\java\main started by Class02 in C:\hcy\spring_boot\pjt_intellij\sol\calendar\calendar)
+2025-08-07 13:53:27 INFO  [CalendarApplication] - The following 1 profile is active: "local"
+2025-08-07 13:53:33 INFO  [CalendarApplication] - Started CalendarApplication in 6.693 seconds (process running for 7.587)
+2025-08-07 13:53:45 INFO  [HomeController] - INFO: home()
+2025-08-07 13:55:37 INFO  [CalendarApplication] - Starting CalendarApplication using Java 21.0.7 with PID 3456 (C:\hcy\spring_boot\pjt_intellij\sol\calendar\calendar\build\classes\java\main started by Class02 in C:\hcy\spring_boot\pjt_intellij\sol\calendar\calendar)
+2025-08-07 13:55:37 INFO  [CalendarApplication] - The following 1 profile is active: "local"
+2025-08-07 13:55:44 INFO  [CalendarApplication] - Started CalendarApplication in 6.777 seconds (process running for 7.649)
